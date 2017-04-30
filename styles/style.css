@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:500');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgrey;
+    font-family: 'Raleway', sans-serif;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+body {
+    margin-top: 10%;
+}
+
+.badge {
+    font-size: 26px;
+}
